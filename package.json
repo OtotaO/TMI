@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "The Musa Initiative - Helping a young entrepreneur in The Gambia - Updated with real images",
+  "description": "The Musa Initiative - Helping a young entrepreneur in The Gambia - Updated with real images - v2",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
