@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "wrangler pages deploy dist"
+    "deploy": "npx wrangler pages deploy dist"
   },
   "dependencies": {
     "lucide-react": "^0.460.0",
