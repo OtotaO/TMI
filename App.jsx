@@ -118,8 +118,8 @@ const MusaProject = () => {
               <div className="relative">
                 <div className="absolute -top-4 -left-4 w-24 h-24 bg-green-100 rounded-full -z-10"></div>
                 <img 
-                  src="https://images.unsplash.com/photo-1595841696677-6489ff3f8cd1?q=80&w=1200&auto=format&fit=crop" 
-                  alt="Representation of hard work" 
+                  src="/assets/images/musa-walking-path.jpg" 
+                  alt="Musa walking down a path in The Gambia" 
                   className="rounded-2xl shadow-xl w-full h-[400px] object-cover"
                 />
                 <div className="absolute -bottom-6 -right-6 bg-white p-4 rounded-xl shadow-lg border-l-4 border-green-500 max-w-xs hidden md:block">
@@ -163,31 +163,31 @@ const MusaProject = () => {
         </div>
       </section>
 
-      {/* Gallery Placeholder - Replace src with actual photos from X account when available */}
+      {/* Gallery - Real photos from The Gambia */}
       <section className="py-10 bg-stone-50 border-y border-stone-200">
         <div className="container mx-auto px-4">
           <h3 className="text-2xl font-bold text-stone-800 mb-8 text-center">Life in The Gambia</h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="h-64 rounded-xl overflow-hidden relative group">
               <img 
-                src="https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?q=80&w=800&auto=format&fit=crop" 
-                alt="Local Agriculture" 
+                src="/assets/images/gambia-life-1.jpg" 
+                alt="Life in The Gambia - Image 1" 
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
               <div className="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition-colors"></div>
             </div>
             <div className="h-64 rounded-xl overflow-hidden relative group">
               <img 
-                src="https://images.unsplash.com/photo-1605000797499-95a51c5269ae?q=80&w=800&auto=format&fit=crop" 
-                alt="Gambia Environment" 
+                src="/assets/images/gambia-life-2.jpg" 
+                alt="Life in The Gambia - Image 2" 
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
               <div className="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition-colors"></div>
             </div>
             <div className="h-64 rounded-xl overflow-hidden relative group">
               <img 
-                src="https://images.unsplash.com/photo-1542385151-efd9000785a0?q=80&w=800&auto=format&fit=crop" 
-                alt="Potential Growth" 
+                src="/assets/images/gambia-life-3.jpg" 
+                alt="Life in The Gambia - Image 3" 
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
               <div className="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition-colors"></div>
