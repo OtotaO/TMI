@@ -1,0 +1,39 @@
+redirectsOrigin = "config"
+plugins = []
+headers = []
+
+[functions]
+
+  [functions."*"]
+
+[build]
+publish = "/opt/build/repo/dist"
+publishOrigin = "config"
+commandOrigin = "config"
+command = "npm run build"
+
+  [build.environment]
+
+  [build.processing]
+
+    [build.processing.css]
+
+    [build.processing.html]
+
+    [build.processing.images]
+
+    [build.processing.js]
+
+  [build.services]
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
+force = false
+
+  [redirects.query]
+
+  [redirects.conditions]
+
+  [redirects.headers]
