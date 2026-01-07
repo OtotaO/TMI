@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "echo 'Deployment handled by Cloudflare Pages'"
+    "deploy": "wrangler pages deploy dist --project-name musa-initiative"
   },
   "dependencies": {
     "lucide-react": "^0.460.0",
