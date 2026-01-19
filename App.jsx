@@ -365,15 +365,15 @@ const MusaProject = () => {
           </p>
           
           <div className="flex flex-col md:flex-row justify-center gap-6">
-            <div className="bg-stone-800 p-6 rounded-xl flex items-center gap-4 text-left hover:bg-stone-700 transition-colors cursor-pointer">
-              <div className="bg-green-600 p-3 rounded-full">
-                <Phone size={24} />
+            <a href="https://x.com/Otota0" target="_blank" rel="noopener noreferrer" className="bg-stone-800 p-6 rounded-xl flex items-center gap-4 text-left hover:bg-stone-700 transition-colors cursor-pointer">
+              <div className="bg-sky-500 p-3 rounded-full">
+                <Smartphone size={24} />
               </div>
               <div>
                 <h4 className="font-bold">Contact Coordinator</h4>
-                <p className="text-stone-400 text-sm">WhatsApp / Direct Message</p>
+                <p className="text-stone-400 text-sm">Follow on X (Twitter)</p>
               </div>
-            </div>
+            </a>
             
             <div className="bg-stone-800 p-6 rounded-xl flex items-center gap-4 text-left hover:bg-stone-700 transition-colors cursor-pointer">
               <div className="bg-blue-600 p-3 rounded-full">
