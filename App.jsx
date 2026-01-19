@@ -118,7 +118,7 @@ const MusaProject = () => {
               <div className="relative">
                 <div className="absolute -top-4 -left-4 w-24 h-24 bg-green-100 rounded-full -z-10"></div>
                 <img 
-                  src="/assets/images/musa-walking-path.jpg" 
+                  src="/images/musa-walking-path.jpg" 
                   alt="Musa walking down a path in The Gambia" 
                   className="rounded-2xl shadow-xl w-full h-[400px] object-cover"
                 />
@@ -170,7 +170,7 @@ const MusaProject = () => {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="h-64 rounded-xl overflow-hidden relative group">
               <img 
-                src="/assets/images/gambia-life-1.jpg" 
+                src="/images/gambia-life-1.jpg" 
                 alt="Life in The Gambia - Image 1" 
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
@@ -178,7 +178,7 @@ const MusaProject = () => {
             </div>
             <div className="h-64 rounded-xl overflow-hidden relative group">
               <img 
-                src="/assets/images/gambia-life-2.jpg" 
+                src="/images/gambia-life-2.jpg" 
                 alt="Life in The Gambia - Image 2" 
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
@@ -186,7 +186,7 @@ const MusaProject = () => {
             </div>
             <div className="h-64 rounded-xl overflow-hidden relative group">
               <img 
-                src="/assets/images/gambia-life-3.jpg" 
+                src="/images/gambia-life-3.jpg" 
                 alt="Life in The Gambia - Image 3" 
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-110"
               />
