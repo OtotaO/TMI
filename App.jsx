@@ -123,8 +123,8 @@ const MusaProject = () => {
                   className="rounded-2xl shadow-xl w-full h-[400px] object-cover"
                 />
                 <div className="absolute -bottom-6 -right-6 bg-white p-4 rounded-xl shadow-lg border-l-4 border-green-500 max-w-xs hidden md:block">
-                  <p className="text-stone-600 italic">"I stopped at grade 9 to support my family. I am ready to work."</p>
-                  <p className="text-stone-400 text-sm mt-2">- Musa</p>
+                  <p className="text-stone-600 italic">"I stopped at grade 9 to support my family. I am ready to work and build a better future."</p>
+                  <p className="text-stone-400 text-sm mt-2">- Musa, 22</p>
                 </div>
               </div>
             </div>
@@ -137,7 +137,7 @@ const MusaProject = () => {
                 Despite showing promise in school and possessing strong English skills, Musa was forced to leave education at Grade 9 due to financial constraints. He currently faces severe economic hardship, often struggling to secure basic food and care for his mother.
               </p>
               <p className="text-stone-600 mb-8 leading-relaxed">
-                But Musa isn't asking for a handout forever. He is asking for a <strong>hand-up</strong>. He has the energy and the drive to start a business. He just lacks the capital to begin.
+                But Musa isn't asking for a handout forever. He is asking for a <strong>hand-up</strong>. With your support, he can transform his determination into a sustainable agricultural business that will provide for his family and create opportunities for others in his community.
               </p>
               
               <div className="grid grid-cols-2 gap-4">
@@ -193,8 +193,8 @@ const MusaProject = () => {
               <div className="absolute inset-0 bg-black/20 group-hover:bg-black/10 transition-colors"></div>
             </div>
           </div>
-          <p className="text-center text-stone-500 mt-4 text-sm">
-            Visuals representing the environment and agricultural potential.
+          <p className="text-center text-stone-600 mt-4 text-sm font-medium">
+            Real images from The Gambia showing the environment and agricultural potential that Musa seeks to develop.
           </p>
         </div>
       </section>
